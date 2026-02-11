@@ -1,0 +1,9 @@
+# ignore raw data
+data/raw/
+*.parquet
+
+# python
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+.env
