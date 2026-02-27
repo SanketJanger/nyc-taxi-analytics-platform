@@ -1,0 +1,5 @@
+fastapi
+uvicorn[standard]
+awswrangler
+boto3
+cachetools
