@@ -100,8 +100,3 @@ npm run dev
 ```
 
 ---
-
-## 📬 Author
-
-**Sanket Janger**
-[LinkedIn](https://linkedin.com/in/sanketjanger) • [GitHub](https://github.com/SanketJanger) • [Portfolio](https://sanketjanger.dev)
